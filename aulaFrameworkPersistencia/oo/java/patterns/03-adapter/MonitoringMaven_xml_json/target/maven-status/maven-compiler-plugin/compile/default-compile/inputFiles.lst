@@ -1,0 +1,9 @@
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/dao/xml/DAO_Produto.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/dao/xml/TempGravar.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/dao/xml/TempLer.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/dao/json/DAO_Produto.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/dao/xml/ProdutosXML.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/test/InicializarBD.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/test/TestarProduto.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/model/Produto.java
+/home/friend/02-gitlab/prog24/oo/java/patterns/03-adapter/MonitoringMaven_xml_json/src/main/java/test/LerProdutos.java

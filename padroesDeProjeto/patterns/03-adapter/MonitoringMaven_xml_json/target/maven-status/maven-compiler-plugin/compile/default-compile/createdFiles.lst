@@ -1,0 +1,10 @@
+dao/xml/ProdutosXML.class
+dao/xml/TempLer.class
+dao/xml/DAO_Produto.class
+test/TestarProduto.class
+dao/json/DAO_Produto$1.class
+model/Produto.class
+dao/xml/TempGravar.class
+dao/json/DAO_Produto.class
+test/LerProdutos.class
+test/InicializarBD.class

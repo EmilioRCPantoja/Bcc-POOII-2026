@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<produtosXML>
+    <produtos>
+        <nome>Arroz Tio João 500gr</nome>
+        <precoAtual>5.0</precoAtual>
+        <estoque>50.0</estoque>
+    </produtos>
+    <produtos>
+        <nome>Feijão Caldão 500gr</nome>
+        <precoAtual>7.0</precoAtual>
+        <estoque>40.0</estoque>
+    </produtos>
+</produtosXML>

@@ -1,0 +1,30 @@
+package factory;
+
+import model.Circle;
+import model.IShape;
+import model.Rectangle;
+import model.Square;
+import model.Triangle;
+
+public class ShapeFactory {
+	
+   //use getShape method to get object of type shape 
+   public IShape getShape(String shapeType){
+      if(shapeType == null){
+         return null;
+      }		
+      if(shapeType.equalsIgnoreCase("CIRCLE")){
+         return new Circle();
+         
+      } else if(shapeType.equalsIgnoreCase("RECTANGLE")){
+         return new Rectangle();
+         
+      } else if(shapeType.equalsIgnoreCase("SQUARE")){
+         return new Square();
+      }
+      else if(shapeType.equalsIgnoreCase("TRIANGLE"))
+          return new Triangle();
+      
+      return null;
+   }
+}

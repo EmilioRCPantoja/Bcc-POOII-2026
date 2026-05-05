@@ -1,0 +1,16 @@
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/com/mycompany/mvhib/model/Pessoa.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/com/mycompany/mvhib/model/TestarPessoa.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/com/mycompany/mvhib/util/CriarTabelas.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/com/mycompany/mvhib/util/SQLiteDialect.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/a/Animal.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/a/Cachorro.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/a/Gato.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/a/TestarAnimais.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/b/Motorista.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/b/Pessoaex.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/b/TestarPessoas.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/b/Vendedor.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/c/MotoristaH.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/c/PessoaexH.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/c/TestarPessoasH.java
+/home/emi/Desktop/BCC2026.1/POO II/aulaFrameworkPersistencia/prog24/bd/java/mvhib/src/main/java/exercicio/c/VendedorH.java
